@@ -106,7 +106,7 @@
 - url: http://www.appdrones.com/
   image: appdrones.png
 # - url: http://www.d-i.co/
-#   image: di-logo-blue.png —company contact info required, email listings@!
+#   image: di-logo-blue.png ���company contact info required, email listings@!
 - url: http://dockyard.com
   image: dockyard.png
 - url: http://www.montania.se/
@@ -265,6 +265,8 @@
   image: unlockable.png
 - url: http://orchestrate.io
   image: orchestrate.png
+- url: http://www.aspireauctions.com
+image: aspireauctions.png
 # ---- PLEASE READ ----
 # To have your pull request accepted, you must email listing@emberjs.com
 # with the subject line "Ember User Logo Contact". Please include the
